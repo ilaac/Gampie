@@ -9148,7 +9148,7 @@ MonoBehaviour:
   dashPullbackInSpeed: 20
   dashPullbackOutSpeed: 8
   dashFOVIncrease: 10
-  dashFOVSmooth: 4
+  dashFOVSmooth: 10
   useCameraDeltaForSway: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
