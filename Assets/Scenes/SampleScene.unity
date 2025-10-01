@@ -9106,16 +9106,16 @@ MonoBehaviour:
   hipfireSpread: 1.5
   adsSpread: 0
   isAiming: 0
-  hipfireRecoilVertical: 10
-  hipfireRecoilHorizontal: 0.5
+  hipfireRecoilVertical: 1.25
+  hipfireRecoilHorizontal: 0.75
   aimRecoilVertical: 8.5
   aimRecoilHorizontal: 0.5
-  recoilReturnSpeed: 15
-  recoilSnappiness: 10
+  recoilReturnSpeed: 1
+  recoilSnappiness: 50
   recoilPattern: []
   usePattern: 0
-  shakeMagnitude: 0.05
-  maxShakeDuration: 0.1
+  shakeMagnitude: 10
+  maxShakeDuration: 0.15
   hitMask:
     serializedVersion: 2
     m_Bits: 51
